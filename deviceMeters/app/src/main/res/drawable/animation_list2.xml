@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <animation-list
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:oneshot="false"
+        >
+        <item android:drawable="@drawable/new_flash1" android:duration="200"></item>
+        <item android:drawable="@drawable/new_flash2" android:duration="200"></item>
+        <item android:drawable="@drawable/new_flash3" android:duration="200"></item>
+        <item android:drawable="@drawable/new_flash4" android:duration="200"></item>
+        <item android:drawable="@drawable/new_flash5" android:duration="200"></item>
+        <item android:drawable="@drawable/new_flash6" android:duration="200"></item>
+        <item android:drawable="@drawable/new_flash7" android:duration="200"></item>
+        <item android:drawable="@drawable/new_flash8" android:duration="200"></item>
+        <item android:drawable="@drawable/new_flash9" android:duration="200"></item>
+        <item android:drawable="@drawable/new_flash10" android:duration="200"></item>
+        <item android:drawable="@drawable/new_flash11" android:duration="200"></item>
+        <item android:drawable="@drawable/new_flash12" android:duration="200"></item>
+        <item android:drawable="@drawable/new_flash13" android:duration="200"></item>
+        <item android:drawable="@drawable/new_flash14" android:duration="200"></item>
+        <item android:drawable="@drawable/new_flash15" android:duration="200"></item>
+
+    <item android:drawable="@drawable/new_flash16" android:duration="50"></item>
+    <item android:drawable="@drawable/new_flash14" android:duration="50"></item>
+    <item android:drawable="@drawable/new_flash12" android:duration="50"></item>
+    <item android:drawable="@drawable/new_flash10" android:duration="50"></item>
+    <item android:drawable="@drawable/new_flash8" android:duration="50"></item>
+    <item android:drawable="@drawable/new_flash5" android:duration="50"></item>
+    <item android:drawable="@drawable/new_flash1" android:duration="50"></item>
+
+</animation-list>
